@@ -1,0 +1,13 @@
+.events_calendar{
+    max-width: 60%;
+    margin: 0 auto;
+}
+.ui-datepicker{
+    margin: 0 auto;
+}
+.description_str{
+    color: rgb(95, 95, 95);
+}
+.is_event a{
+    background-color: rgb(128, 209, 247) !important;
+}
